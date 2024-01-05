@@ -1,4 +1,4 @@
-# Guess the number game
+# Guess the number game(Recursion Backend Project１)
 ユーザーは2 つの数字、最小数（n）と最大数（m）を入力。
 n <= m
 
